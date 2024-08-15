@@ -6,13 +6,9 @@ I'm Aditya Singh, a Data Analyst with a B.Tech in Computer Science from MIT, Mor
 [GitHub](https://github.com/AdityaSingh2O22)
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
-</picture>
